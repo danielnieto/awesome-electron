@@ -303,6 +303,7 @@ Made with Electron.
 - [electron-reloader](https://github.com/sindresorhus/electron-reloader) - Simple auto-reloading during development.
 - [electron-serve](https://github.com/sindresorhus/electron-serve) - Static file serving (Useful for routing, like `react-router`).
 - [electron-timber](https://github.com/sindresorhus/electron-timber) - Pretty logger.
+- [electron-download-manager](https://github.com/danielnieto/electron-download-manager) - Download files from `BrowserWindow` without user interaction, allowing single file and bulk downloading.
 
 ### Using Electron
 
